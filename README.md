@@ -2,7 +2,7 @@
 An Effective Superfluid-inspired Cosmological Framework
 # Cold Genesis Cosmology (CGC) Simulation Core
 
-[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI](https://zenodo.org)](https://doi.org/10.5281/zenodo.20361791)
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 This repository hosts the official, open-source computational verification package for **Cold Genesis Cosmology: A Superfluid, Thermodynamic Origin of Cosmic Structure**. This suite is provided as a supplementary open-data matrix in compliance with *APS Open Science* reproducibility mandates.
@@ -117,7 +117,7 @@ If you build upon this computational engine or reference these fluid-gravitation
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v1.0.0},
-  doi          = {10.5281/zenodo.11223344},
+  doi          = {10.5281/zenodo.20361791},
   url          = {https://doi.org}
 }
 ```
